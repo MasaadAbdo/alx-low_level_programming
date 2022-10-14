@@ -30,6 +30,6 @@ putchar(' ');
 }
 }
 }
-tchar ('\n');
+putchar ('\n');
 return (0);
 }
