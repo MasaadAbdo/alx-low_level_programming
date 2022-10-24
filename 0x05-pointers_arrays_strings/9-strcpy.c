@@ -1,4 +1,3 @@
-#int prototypes(void)
 #include "main.h"
 /**
 * _strcpy - Copy paste string
