@@ -1,1 +1,1 @@
-Header file containing prototypes for all functions written in the project
+In this project, I continued to practice using pointers, arrays and strings in C
