@@ -1,1 +1,1 @@
-function that concatenates two strings
+Header file containing prototypes for all functions written in the project
