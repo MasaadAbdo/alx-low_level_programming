@@ -1,1 +1,1 @@
-# alx-low_level_programming
+function that concatenates two strings
