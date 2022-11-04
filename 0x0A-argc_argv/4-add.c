@@ -4,10 +4,10 @@
 #include <ctype.h>
 #define UNUSED(x) (void)(x)
 /**
- * StringCheck - checks string
- * @s: string to check
- * Return: boolean
- */
+* StringCheck - checks string
+* @s: string to check
+* Return: boolean
+*/
 int StringCheck(char *s)
 {
 	int i = 0;
